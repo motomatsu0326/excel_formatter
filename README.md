@@ -6,6 +6,10 @@
 ```
 $ pip install pipenv
 ```
+3. pipenv仮想環境を作成
+```
+pipenv install
+```
 
 ## 実行方法
 1. ルートパスにExcelファイルを配置
